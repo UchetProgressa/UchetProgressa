@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style:Style xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:style="http://g5.1c.ru/v8/dt/style">
+  <items xsi:type="style:ColorStyleItem">
+    <name>FormBackColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>151</red>
+      <green>172</green>
+      <blue>194</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>FormTextColor</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.FieldTextColor</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>ButtonBackColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>151</red>
+      <green>172</green>
+      <blue>194</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>ButtonTextColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>151</red>
+      <green>172</green>
+      <blue>194</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>FieldBackColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>151</red>
+      <green>172</green>
+      <blue>194</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>FieldSelectionBackColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>151</red>
+      <green>172</green>
+      <blue>194</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>FieldSelectedTextColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>151</red>
+      <green>172</green>
+      <blue>194</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>FieldAlternativeBackColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>151</red>
+      <green>172</green>
+      <blue>194</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>ToolTipBackColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>151</red>
+      <green>172</green>
+      <blue>194</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>SpecialTextColor</name>
+    <color xsi:type="core:ColorDef"/>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>NegativeTextColor</name>
+    <color xsi:type="core:ColorDef"/>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>BorderColor</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.ToolTipTextColor</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>ReportHeaderBackColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>151</red>
+      <green>172</green>
+      <blue>194</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>ReportGroup1BackColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>151</red>
+      <green>172</green>
+      <blue>194</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>ReportGroup2BackColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>151</red>
+      <green>172</green>
+      <blue>194</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>ReportLineColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>151</red>
+      <green>172</green>
+      <blue>194</blue>
+    </color>
+  </items>
+  <items xsi:type="style:BorderStyleItem">
+    <name>ControlBorder</name>
+    <border xsi:type="core:BorderDef">
+      <style>Overline</style>
+      <width>1</width>
+    </border>
+  </items>
+  <items xsi:type="style:FontStyleItem">
+    <name>TextFont</name>
+    <font xsi:type="core:FontRef">
+      <font>Style.TextFont</font>
+    </font>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>ButtonBorderColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>151</red>
+      <green>172</green>
+      <blue>194</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>TableHeaderBackColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>151</red>
+      <green>172</green>
+      <blue>194</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>TableHeaderTextColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>151</red>
+      <green>172</green>
+      <blue>194</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>TableFooterBackColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>151</red>
+      <green>172</green>
+      <blue>194</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>TableFooterTextColor</name>
+    <color xsi:type="core:ColorDef"/>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>ActivityColor</name>
+    <color xsi:type="core:ColorRef">
+      <color>Web.Snow</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>AccentColor</name>
+    <color xsi:type="core:ColorRef">
+      <color>Web.Crimson</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>NavigationColor</name>
+    <color xsi:type="core:ColorRef">
+      <color>Web.DarkSlateGray</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>AuxiliaryNavigationColor</name>
+    <color xsi:type="core:ColorRef">
+      <color>Web.DarkSlateGray</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>ImportantColor</name>
+    <color xsi:type="core:ColorRef">
+      <color>Windows.ActiveTitleBarText</color>
+    </color>
+  </items>
+</style:Style>

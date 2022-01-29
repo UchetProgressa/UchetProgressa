@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="51fadca7-6ce3-4715-8195-a1ec18306e1f">
+  <producedTypes>
+    <objectType typeId="b5307f5f-666c-4611-8efe-9c442010cf0d" valueTypeId="3598ae2d-31eb-41ba-8ad9-398ce8467859"/>
+    <refType typeId="851bf241-18f5-4c37-aef2-ed3fdd2c0ab5" valueTypeId="57a67efd-e70d-4e66-8bcd-ab24128f7176"/>
+    <selectionType typeId="c2065681-b407-465f-9f2c-9f2d858e685c" valueTypeId="a0c97866-8301-4076-b9d8-f52135566ae4"/>
+    <listType typeId="7c17fbef-2ddb-4027-9848-6c1bb4681e2e" valueTypeId="01b98439-ed83-4443-afb9-b5af281ff9ec"/>
+    <managerType typeId="f641b15b-dec4-44b7-94b4-bcee989ba91f" valueTypeId="7e300090-2099-45a4-89aa-8993a64c908d"/>
+  </producedTypes>
+  <name>ЕденицыИзмерения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Еденицы измерения</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ЕденицыИзмерения.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.ЕденицыИзмерения.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>PredefinedDataName</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </synonym>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Predefined</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </synonym>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Ref</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </synonym>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>DeletionMark</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </synonym>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>IsFolder</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </synonym>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Owner</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </synonym>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillFromFillingValue>true</fillFromFillingValue>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Parent</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </synonym>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillFromFillingValue>true</fillFromFillingValue>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Description</name>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Code</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </synonym>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

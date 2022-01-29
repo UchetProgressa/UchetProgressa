@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c1b79476-aca3-486a-9661-cc3c3325ccfb">
+  <producedTypes>
+    <objectType typeId="ff4fb482-0ddd-4b59-bbe7-c613211c70e9" valueTypeId="77c07ce2-1f46-469f-bda7-b9f058e3d5d6"/>
+    <refType typeId="2ec2c687-a051-4e08-9c3d-bd36a9e1b4b4" valueTypeId="28b31eff-3fb5-40a4-b226-dda9c2e01840"/>
+    <selectionType typeId="1028b912-8a0f-4632-a95e-fd73fbe7fc37" valueTypeId="d7a5753c-b697-4a94-a8bb-1ece89791b7d"/>
+    <listType typeId="f7af3a7f-86d8-49bc-8d04-633e5fe0bfab" valueTypeId="c18ab124-1a21-4899-94c9-985e4207d9dd"/>
+    <managerType typeId="a47aec52-c67f-4df8-9be6-f89860f415b2" valueTypeId="36fb913f-9197-4385-ac68-0a9c2f963faf"/>
+  </producedTypes>
+  <name>Цель</name>
+  <synonym>
+    <key>ru</key>
+    <value>Цель</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Цель.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Цель.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>PredefinedDataName</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </synonym>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Predefined</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </synonym>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Ref</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </synonym>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>DeletionMark</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </synonym>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>IsFolder</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </synonym>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Owner</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </synonym>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillFromFillingValue>true</fillFromFillingValue>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Parent</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </synonym>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillFromFillingValue>true</fillFromFillingValue>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Description</name>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Code</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </synonym>
+    <toolTip>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </toolTip>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <dataHistory>Use</dataHistory>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>50</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <defaultObjectForm>Catalog.Цель.Form.ФормаЭлемента</defaultObjectForm>
+  <defaultListForm>Catalog.Цель.Form.ФормаСписка</defaultListForm>
+  <attributes uuid="3311ea02-0170-4e91-a8a0-5a2ad4756f12">
+    <name>ДатаНачала</name>
+    <synonym>
+      <key>ru</key>
+      <value>Дата начала</value>
+    </synonym>
+    <type>
+      <types>Date</types>
+      <dateQualifiers>
+        <dateFractions>Date</dateFractions>
+      </dateQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="9e4530de-2158-4ba4-902f-af7eda590d8c">
+    <name>ДатаОкончания</name>
+    <synonym>
+      <key>ru</key>
+      <value>Дата окончания (план)</value>
+    </synonym>
+    <type>
+      <types>Date</types>
+      <dateQualifiers>
+        <dateFractions>Date</dateFractions>
+      </dateQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="989b51da-a447-4e22-9b4c-e75200049044">
+    <name>УчетВедется</name>
+    <synonym>
+      <key>ru</key>
+      <value>Учет ведется</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ЕденицыИзмерения</types>
+    </type>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="7b56b828-6c0b-49ab-8be1-7f45cba7aea9">
+    <name>Целое</name>
+    <synonym>
+      <key>ru</key>
+      <value>Целое</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+        <scale>2</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="641a1523-8052-44dd-b4ca-c9e7aa691311">
+    <name>Доля</name>
+    <synonym>
+      <key>ru</key>
+      <value>Доля</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+        <scale>2</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="94d19f90-c06e-4b7e-9bdf-bbb59fa4a6c4">
+    <name>Название</name>
+    <synonym>
+      <key>ru</key>
+      <value>Название</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="8b4a7b35-db52-4f16-8c71-8c246a141f79">
+    <name>Путь</name>
+    <synonym>
+      <key>ru</key>
+      <value>Путь</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <format>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>Новая цель</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue">
+      <value></value>
+    </fillValue>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="a00a7cc4-ef75-4f3e-a762-0083b6ccabba">
+    <name>Выполнено</name>
+    <synonym>
+      <key>ru</key>
+      <value>Выполнено</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <tabularSections uuid="02d398dd-f7d7-4a51-a8a3-ca017d667913">
+    <producedTypes>
+      <objectType typeId="18041356-9ebe-4d0c-902f-34d5d12492e5" valueTypeId="075596c9-edc0-4711-996e-fb4fe98bd614"/>
+      <rowType typeId="6e43899a-4a71-47d5-afed-89fb2fca9432" valueTypeId="200d7fa6-3d13-4cb6-83d0-913fcef56ee8"/>
+    </producedTypes>
+    <name>ДополнительнаяИнформация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Дополнительная информация</value>
+    </synonym>
+    <standardAttributes>
+      <dataHistory>Use</dataHistory>
+      <name>LineNumber</name>
+      <synonym>
+        <key>ru</key>
+        <value>Новая цель</value>
+      </synonym>
+      <toolTip>
+        <key>ru</key>
+        <value>Новая цель</value>
+      </toolTip>
+      <fillValue xsi:type="core:UndefinedValue"/>
+      <fullTextSearch>Use</fullTextSearch>
+      <format>
+        <key>ru</key>
+        <value>Новая цель</value>
+      </format>
+      <editFormat>
+        <key>ru</key>
+        <value>Новая цель</value>
+      </editFormat>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </standardAttributes>
+    <attributes uuid="4d2840c3-4dba-4cfc-919e-16c2bb496a5e">
+      <name>Наименование</name>
+      <synonym>
+        <key>ru</key>
+        <value>Наименование</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>100</length>
+        </stringQualifiers>
+      </type>
+      <format>
+        <key>ru</key>
+        <value>Новая цель</value>
+      </format>
+      <editFormat>
+        <key>ru</key>
+        <value>Новая цель</value>
+      </editFormat>
+      <toolTip>
+        <key>ru</key>
+        <value>Новая цель</value>
+      </toolTip>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="9d764a46-a86b-4430-86fb-056321034b9b">
+      <name>Значение</name>
+      <synonym>
+        <key>ru</key>
+        <value>Значение</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>200</length>
+        </stringQualifiers>
+      </type>
+      <format>
+        <key>ru</key>
+        <value>Новая цель</value>
+      </format>
+      <editFormat>
+        <key>ru</key>
+        <value>Новая цель</value>
+      </editFormat>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
+  <tabularSections uuid="7c28c23c-7a5f-4f98-a703-f4de50c54ee5">
+    <producedTypes>
+      <objectType typeId="af19a50b-3616-4c97-8ce2-06e845d3eefb" valueTypeId="b7e686a6-f2d1-4f09-858a-06392ddedeab"/>
+      <rowType typeId="eac654e6-bcb6-45d3-a3ce-662e435a0b36" valueTypeId="686ab79e-e349-4c66-8e8c-d357516a82a7"/>
+    </producedTypes>
+    <name>ВыборочноеПрохождение</name>
+    <synonym>
+      <key>ru</key>
+      <value>Выборочное прохождение</value>
+    </synonym>
+    <attributes uuid="7d2c4b06-be45-497e-982f-fdd3c58b4540">
+      <name>Часть</name>
+      <synonym>
+        <key>ru</key>
+        <value>Часть</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers/>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="7fb40ae5-318a-4523-984a-12020e5092c5">
+      <name>Выплонение</name>
+      <synonym>
+        <key>ru</key>
+        <value>Выплонение</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>10</precision>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:StringValue">
+        <value>0</value>
+      </minValue>
+      <maxValue xsi:type="core:StringValue">
+        <value>100</value>
+      </maxValue>
+      <dataHistory>Use</dataHistory>
+      <choiceHistoryOnInput>DontUse</choiceHistoryOnInput>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
+  <forms uuid="c3ea8d2c-ab25-4dab-94c0-f6387d372dfd">
+    <name>ФормаЭлемента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма элемента</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="fc9a7dd9-833b-40c0-a6db-5f12af39958f">
+    <name>ФормаСписка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="c0e84c86-5741-450e-a389-20897b50df93">
+    <name>ФормаСпискаАктуальные</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка актуальные</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Catalog>
