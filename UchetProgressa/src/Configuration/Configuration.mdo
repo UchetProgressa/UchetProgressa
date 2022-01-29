@@ -37,7 +37,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <subsystems>Subsystem.Подсистема1</subsystems>
+  <subsystems>Subsystem.Прогресс</subsystems>
   <styles>Style.Основной</styles>
   <styles>Style.ТемнаяТема</styles>
   <catalogs>Catalog.Цель</catalogs>
