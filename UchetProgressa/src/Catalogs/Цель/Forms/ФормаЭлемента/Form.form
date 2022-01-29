@@ -144,6 +144,7 @@
               <key>ru</key>
               <value>Новая цель</value>
             </editFormat>
+            <listChoiceMode>true</listChoiceMode>
             <chooseType>true</chooseType>
             <typeDomainEnabled>true</typeDomainEnabled>
             <textEdit>true</textEdit>
@@ -2760,14 +2761,6 @@
   <handlers>
     <event>OnOpen</event>
     <name>ПриОткрытии</name>
-  </handlers>
-  <handlers>
-    <event>BeforeClose</event>
-    <name>ПередЗакрытием</name>
-  </handlers>
-  <handlers>
-    <event>OnChangeDisplaySettings</event>
-    <name>ПриИзмененииПараметровЭкрана</name>
   </handlers>
   <height>16</height>
   <windowOpeningMode>LockOwnerWindow</windowOpeningMode>

@@ -117,6 +117,10 @@
   <informationRegisterPeriodicity>Day</informationRegisterPeriodicity>
   <mainFilterOnPeriod>true</mainFilterOnPeriod>
   <dataLockControlMode>Managed</dataLockControlMode>
+  <recordPresentation>
+    <key>ru</key>
+    <value>Остановился на</value>
+  </recordPresentation>
   <explanation>
     <key>ru</key>
     <value>
