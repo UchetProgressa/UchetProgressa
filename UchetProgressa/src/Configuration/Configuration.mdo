@@ -42,5 +42,6 @@
   <styles>Style.ТемнаяТема</styles>
   <catalogs>Catalog.Цель</catalogs>
   <catalogs>Catalog.ЕденицыИзмерения</catalogs>
+  <enums>Enum.Тест</enums>
   <informationRegisters>InformationRegister.Прогресс</informationRegisters>
 </mdclass:Configuration>
