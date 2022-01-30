@@ -58,7 +58,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>DataProcessorObject.Проверка</types>
+      <types>DataProcessorObject.Proverka</types>
     </valueType>
     <view>
       <common>true</common>
