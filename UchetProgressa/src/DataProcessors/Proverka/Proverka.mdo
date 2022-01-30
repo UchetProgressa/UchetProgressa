@@ -10,12 +10,12 @@
     <value>Проверка</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <defaultForm>DataProcessor.Proverka.Form.Форма</defaultForm>
+  <defaultForm>DataProcessor.Proverka.Form.Forma</defaultForm>
   <forms uuid="b4883040-2112-4709-897f-3690e7307619">
-    <name>Форма</name>
+    <name>Forma</name>
     <synonym>
       <key>ru</key>
-      <value>Форма</value>
+      <value>Forma</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
