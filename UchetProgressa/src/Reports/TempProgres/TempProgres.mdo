@@ -10,7 +10,17 @@
     <value>Темп</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
+  <defaultForm>Report.TempProgres.Form.ФормаОтчета</defaultForm>
   <mainDataCompositionSchema>Report.TempProgres.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <forms uuid="908ef8f4-8208-40ac-b037-e315fd80c0d5">
+    <name>ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
   <templates uuid="e29d9410-56b7-46bd-b171-45f013647f18">
     <name>ОсновнаяСхемаКомпоновкиДанных</name>
     <synonym>
