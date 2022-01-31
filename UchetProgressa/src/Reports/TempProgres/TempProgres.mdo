@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="792022bb-868d-4e52-9eea-7574ddce9f0b">
+  <producedTypes>
+    <objectType typeId="b158b842-e37d-4da2-9f32-27fca2e7585c" valueTypeId="fd58a2b4-b71d-44cb-8e68-7d6cbc963143"/>
+    <managerType typeId="63609d50-a322-4dfd-8e36-3d9499bf1545" valueTypeId="fb42cca0-148f-4ad6-92ab-3ad90d22685a"/>
+  </producedTypes>
+  <name>TempProgres</name>
+  <synonym>
+    <key>ru</key>
+    <value>Темп</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.TempProgres.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="e29d9410-56b7-46bd-b171-45f013647f18">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>

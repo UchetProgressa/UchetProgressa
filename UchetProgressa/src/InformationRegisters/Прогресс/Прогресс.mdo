@@ -126,6 +126,25 @@
     <value>
 </value>
   </explanation>
+  <resources uuid="7e3462cd-286b-4029-ba71-fb08f2411c9f">
+    <name>ОстановилсяНа</name>
+    <synonym>
+      <key>ru</key>
+      <value>Остановился на</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
   <attributes uuid="d413921f-f529-4a44-a5cb-7bc1257517d6">
     <name>Название</name>
     <synonym>

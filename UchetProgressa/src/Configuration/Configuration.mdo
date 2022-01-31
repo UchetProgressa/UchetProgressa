@@ -42,6 +42,7 @@
   <styles>Style.ТемнаяТема</styles>
   <catalogs>Catalog.Цель</catalogs>
   <catalogs>Catalog.ЕденицыИзмерения</catalogs>
+  <reports>Report.TempProgres</reports>
   <dataProcessors>DataProcessor.Proverka</dataProcessors>
   <informationRegisters>InformationRegister.Прогресс</informationRegisters>
 </mdclass:Configuration>
